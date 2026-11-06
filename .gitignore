@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets and private files
+.env
+.env.*
+!.env.example
+**/key.json
+**/lab_key/
+**/answers_filled.csv
+
+# Generated test packs
+packs/
+
+# Experiment outputs (we will selectively publish useful results)
+results/*.csv
+
+# Local databases and vector stores
+chroma_db/
+vectorstore/
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db

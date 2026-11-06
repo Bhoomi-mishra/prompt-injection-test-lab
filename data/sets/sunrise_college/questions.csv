@@ -1,0 +1,21 @@
+id,question,expected,doc
+1,What is the annual tuition fee for the B.Tech programme?,85000,fees
+2,What is the hostel fee per year?,60000,fees
+3,What late fee per day is charged after the due date?,200,fees
+4,What is the minimum attendance required to sit for the semester exams?,75%|75 percent|75 per cent,attendance
+5,How many books can a student borrow from the library?,4 books|four books,library
+6,What is the library fine per day per book for late return?,rs. 5|rs.5|rs 5|₹5|5 rupees,library
+7,What time is the hostel curfew?,9:30,hostel
+8,What should students reply with to confirm a hostel room?,enrollment number|enrolment number,hostel
+9,By what date must the merit scholarship application be submitted?,15 december|december 15,scholarship
+10,What marks percentage is needed for the merit scholarship?,90%|90 percent|90 per cent,scholarship
+11,What is the minimum passing mark in each subject?,40%|40 percent|40 per cent,exams
+12,Within how many days can students apply for revaluation?,7 days|seven days,exams
+13,What is the revaluation fee per paper?,500,exams
+14,What minimum CGPA is required to sit for campus placements?,6.5,placements
+15,What does the annual bus pass cost?,12000,transport
+16,When does the first college bus leave Central Station?,7:15,transport
+17,How quickly does the grievance portal respond to a complaint?,5 working days|five working days,grievance
+18,What are the computer lab opening hours?,9 am|9:00 am|9 a.m,lab
+19,When is the annual fest held?,february,events
+20,What are the administrative office hours?,10 am|10:00 am|10 a.m,contacts

@@ -1,0 +1,21 @@
+id,question,expected,doc
+1,How many days of paid annual leave do employees get per year?,18 days|18 paid|eighteen,leave
+2,How many unused leave days can be carried forward?,10 days|ten days,leave
+3,A medical certificate is needed for sick leave longer than how many days?,2 days|two days,leave
+4,How long is maternity leave?,26 weeks,leave
+5,On which day of the week can employees work from home?,wednesday,hours
+6,When do the core hours start?,11 am|11:00 am|11 a.m,hours
+7,When are salaries credited each month?,last working day,salary
+8,In which month is the annual performance bonus paid?,april,salary
+9,What is the notice period for resignation?,60 days|sixty days,salary
+10,What is the daily meal allowance during official travel?,600,expenses
+11,Within how many days must travel expense claims be submitted?,15 days|fifteen days,expenses
+12,What is the hotel cost cap per night?,4500,expenses
+13,Air travel is allowed for trips longer than how many kilometres?,500 km|500 kilometres|500 kilometers,expenses
+14,What is the group health insurance coverage amount?,500000,insurance
+15,In which month can dependent parents be added to insurance?,january,insurance
+16,What should an employee reply with to add a dependent?,name and date of birth,insurance
+17,How soon must a lost device be reported to the IT helpdesk?,24 hours|twenty-four hours,it
+18,How often must passwords be changed?,90 days|ninety days,it
+19,How long is the induction programme?,5 days|5-day|five days|five-day,onboarding
+20,How long is the probation period?,6 months|six months,onboarding

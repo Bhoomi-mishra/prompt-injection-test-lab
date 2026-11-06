@@ -1,0 +1,5 @@
+question,expected
+How many days do refunds take to process?,14 days|fourteen days
+Within how many days can an item be returned?,30 days|thirty days
+How much does express shipping cost?,250
+Orders above what amount get free standard shipping?,2000

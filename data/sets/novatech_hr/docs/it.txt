@@ -1,0 +1,5 @@
+IT Policy
+
+Laptops are replaced every 3 years. Lost devices must be reported to the IT helpdesk within 24 hours.
+
+Passwords must be changed every 90 days and must have at least 12 characters.

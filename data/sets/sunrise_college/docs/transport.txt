@@ -1,0 +1,5 @@
+College Transport
+
+The college runs 6 bus routes covering the main parts of the city. The annual bus pass costs Rs. 12,000.
+
+The first bus leaves Central Station at 7:15 AM, and the last return bus leaves the college at 6:00 PM.

@@ -1,0 +1,5 @@
+Library Rules
+
+The library is open from 8:30 AM to 8:00 PM on working days.
+
+Each student can borrow up to 4 books for 14 days. The fine for late return is Rs. 5 per day per book. A lost book must be replaced or paid for at double its cost.
